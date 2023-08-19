@@ -2,5 +2,6 @@
 
 Instalação : 
 
-npm create electron-vite
+npm create electron-vite <br>
+<hr>
 npm i
